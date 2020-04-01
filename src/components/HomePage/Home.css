@@ -1,0 +1,17 @@
+.card {
+    position: static !important;
+}
+
+.react-datepicker-wrapper {
+    width: 100%;
+}
+
+.react-datepicker-wrapper input {
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+}
+
+.visible.menu.transition {
+    position: static;
+}

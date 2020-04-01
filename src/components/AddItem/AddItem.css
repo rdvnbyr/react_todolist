@@ -1,0 +1,8 @@
+.cardPick {
+    position: static !important;
+}
+
+label {
+    font-size: 16px !important;
+    color: #1b262c !important;
+}
