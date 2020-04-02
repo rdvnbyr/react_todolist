@@ -55,7 +55,7 @@ class AddItem2 extends Component {
                         </Form.Label>
 
                         <Col sm={10}>
-                            <Form.Control style={ this.state.style } name='title' value={this.state.value} type="Text" placeholder="Title" onChange={this.titleHandler}/>
+                            <Form.Control style={ this.state.style } name='title' value={this.state.value} type="Text" placeholder="Title.." onChange={this.titleHandler}/>
                         </Col>
                     </Form.Group>
 
