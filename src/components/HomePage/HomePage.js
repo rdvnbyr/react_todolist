@@ -166,7 +166,7 @@ class HomePage extends Component {
                                                 className="mb-1" 
                                                 fluid icon='text width' 
                                                 iconPosition='left' 
-                                                placeholder='Search users...'                                            
+                                                placeholder='Title..'                                            
                                                 onChange={ (e) => e.target.value.length < 30 ? this.titleChangeHandler(e,index) : null } 
                                             />
                                         
